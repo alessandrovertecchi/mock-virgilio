@@ -1,52 +1,50 @@
-{
-   "datiRs": [
-      {
-         "baDisplayLabel": "ensv1hgj",
-         "s0DisplayLabel": "Configured",
-         "nodeDisplayLabel": "001DD8B72355",
-         "nodeLifecycleStatus": "none",
-         "nodeCalculatedLocation": "CAGE-A",
-         "rsDisplayLabel": "NodeManager (02dfedfr492)",
-         "rsDiscoveredProductName": "IBM DB2",
-         "rsLifecycleStatus": "none",
-         "sequenceStart": "1",
-         "resilienceApplication": "NO",
-         "resilienceApplicationCI": "NO",
-         "rsOwnerDisplayLabel": "CC2_PAAS_UNIXLINUX_SC_SYS",
-         "issue": "none",
-         "checkCompliance": "none"
-      },
-      {
-         "baDisplayLabel": "ensv1hgj",
-         "s0DisplayLabel": "Configured",
-         "nodeDisplayLabel": "001DD8B72355",
-         "nodeLifecycleStatus": "none",
-         "nodeCalculatedLocation": "CAGE-A",
-         "rsDisplayLabel": "NodeManager (02dfedfr492)",
-         "rsDiscoveredProductName": "IBM DB2",
-         "rsLifecycleStatus": "none",
-         "sequenceStart": "1",
-         "resilienceApplication": "NO",
-         "resilienceApplicationCI": "NO",
-         "rsOwnerDisplayLabel": "CC2_PAAS_UNIXLINUX_SC_SYS",
-         "issue": "none",
-         "checkCompliance": "none"
-      },
-      {
-         "baDisplayLabel": "ensv1hgj",
-         "s0DisplayLabel": "Configured",
-         "nodeDisplayLabel": "001DD8B72355",
-         "nodeLifecycleStatus": "none",
-         "nodeCalculatedLocation": "CAGE-A",
-         "rsDisplayLabel": "NodeManager (02dfedfr492)",
-         "rsDiscoveredProductName": "IBM DB2",
-         "rsLifecycleStatus": "none",
-         "sequenceStart": "1",
-         "resilienceApplication": "NO",
-         "resilienceApplicationCI": "NO",
-         "rsOwnerDisplayLabel": "CC2_PAAS_UNIXLINUX_SC_SYS",
-         "issue": "none",
-         "checkCompliance": "none"
-      }
-   ]
-}
+[
+   {
+      "baDisplayLabel": "ensv1hgj",
+      "s0DisplayLabel": "Configured",
+      "nodeDisplayLabel": "001DD8B72355",
+      "nodeLifecycleStatus": "none",
+      "nodeCalculatedLocation": "CAGE-A",
+      "rsDisplayLabel": "NodeManager (02dfedfr492)",
+      "rsDiscoveredProductName": "IBM DB2",
+      "rsLifecycleStatus": "none",
+      "sequenceStart": "1",
+      "resilienceApplication": "NO",
+      "resilienceApplicationCI": "NO",
+      "rsOwnerDisplayLabel": "CC2_PAAS_UNIXLINUX_SC_SYS",
+      "issue": "none",
+      "checkCompliance": "none"
+   },
+   {
+      "baDisplayLabel": "ensv1hgj",
+      "s0DisplayLabel": "Configured",
+      "nodeDisplayLabel": "001DD8B72355",
+      "nodeLifecycleStatus": "none",
+      "nodeCalculatedLocation": "CAGE-A",
+      "rsDisplayLabel": "NodeManager (02dfedfr492)",
+      "rsDiscoveredProductName": "IBM DB2",
+      "rsLifecycleStatus": "none",
+      "sequenceStart": "1",
+      "resilienceApplication": "NO",
+      "resilienceApplicationCI": "NO",
+      "rsOwnerDisplayLabel": "CC2_PAAS_UNIXLINUX_SC_SYS",
+      "issue": "none",
+      "checkCompliance": "none"
+   },
+   {
+      "baDisplayLabel": "ensv1hgj",
+      "s0DisplayLabel": "Configured",
+      "nodeDisplayLabel": "001DD8B72355",
+      "nodeLifecycleStatus": "none",
+      "nodeCalculatedLocation": "CAGE-A",
+      "rsDisplayLabel": "NodeManager (02dfedfr492)",
+      "rsDiscoveredProductName": "IBM DB2",
+      "rsLifecycleStatus": "none",
+      "sequenceStart": "1",
+      "resilienceApplication": "NO",
+      "resilienceApplicationCI": "NO",
+      "rsOwnerDisplayLabel": "CC2_PAAS_UNIXLINUX_SC_SYS",
+      "issue": "none",
+      "checkCompliance": "none"
+   }
+]
