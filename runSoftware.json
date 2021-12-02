@@ -1,56 +1,52 @@
 {
-   "from":[
+   "datiRs": [
       {
-         "ucmdbid":"ji3131393o1313j13n1f44",
-         "name":"INFRASTRUTTURA CSRM (PROD)_100080",
-         "came":123456,
-         "type":"infrastructure_service",
-         "def":{
-            "deptype":"null",
-            "reltype":"Tipo legame 12"
-         }
+         "baDisplayLabel": "ensv1hgj",
+         "s0DisplayLabel": "Configured",
+         "nodeDisplayLabel": "001DD8B72355",
+         "nodeLifecycleStatus": "none",
+         "nodeCalculatedLocation": "CAGE-A",
+         "rsDisplayLabel": "NodeManager (02dfedfr492)",
+         "rsDiscoveredProductName": "IBM DB2",
+         "rsLifecycleStatus": "none",
+         "sequenceStart": "1",
+         "resilienceApplication": "NO",
+         "resilienceApplicationCI": "NO",
+         "rsOwnerDisplayLabel": "CC2_PAAS_UNIXLINUX_SC_SYS",
+         "issue": "none",
+         "checkCompliance": "none"
       },
       {
-         "ucmdbid":"ji3131393o1313j13n1f98",
-         "name":"INFRASTRUTTURA MARS (PROD)_801012",
-         "came":789012,
-         "type":"infrastructure_service",
-         "def":{
-            "deptype":"null",
-            "reltype":"Tipo legame 78"
-         }
+         "baDisplayLabel": "ensv1hgj",
+         "s0DisplayLabel": "Configured",
+         "nodeDisplayLabel": "001DD8B72355",
+         "nodeLifecycleStatus": "none",
+         "nodeCalculatedLocation": "CAGE-A",
+         "rsDisplayLabel": "NodeManager (02dfedfr492)",
+         "rsDiscoveredProductName": "IBM DB2",
+         "rsLifecycleStatus": "none",
+         "sequenceStart": "1",
+         "resilienceApplication": "NO",
+         "resilienceApplicationCI": "NO",
+         "rsOwnerDisplayLabel": "CC2_PAAS_UNIXLINUX_SC_SYS",
+         "issue": "none",
+         "checkCompliance": "none"
       },
       {
-         "ucmdbid":"ji3131393o1313j138776hy4",
-         "name":"LEGAL ARCHIVES (PROD)_569",
-         "came":346789,
-         "type":"business_service",
-         "def":{
-            "deptype":"Tipo dipendenza 34",
-            "reltype":"Tipo legame 34"
-         }
-      }
-   ],
-   "to":[
-      {
-         "ucmdbid":"ji3131393o1313j13n1gs",
-         "name":"BASIC DISTRIBUTED SERVICES (PROD)_456",
-         "came":123478,
-         "type":"infrastructure_service",
-         "def":{
-            "deptype":"null",
-            "reltype":"Tipo legame 123"
-         }
-      },
-      {
-         "ucmdbid":"ji3131393o1313j13n112k4",
-         "name":"ENI STATION (PROD)_777 loremipsum dor sit amet sic null abent",
-         "came":852369,
-         "type":"business_service",
-         "def":{
-            "deptype":"Tipo dipendenza 85",
-            "reltype":"Tipo legame 85"
-         }
+         "baDisplayLabel": "ensv1hgj",
+         "s0DisplayLabel": "Configured",
+         "nodeDisplayLabel": "001DD8B72355",
+         "nodeLifecycleStatus": "none",
+         "nodeCalculatedLocation": "CAGE-A",
+         "rsDisplayLabel": "NodeManager (02dfedfr492)",
+         "rsDiscoveredProductName": "IBM DB2",
+         "rsLifecycleStatus": "none",
+         "sequenceStart": "1",
+         "resilienceApplication": "NO",
+         "resilienceApplicationCI": "NO",
+         "rsOwnerDisplayLabel": "CC2_PAAS_UNIXLINUX_SC_SYS",
+         "issue": "none",
+         "checkCompliance": "none"
       }
    ]
 }
