@@ -2,82 +2,95 @@
     "total": 13,
     "cards": [
         {
-            "id_came": "f2df31253a0458ee4d27f6cdec80a819",
+            "id": "f2df31253a0458ee4d27f6cdec80a819",
+            "came": "123401",
             "type": "infrastructure_service",
             "name_card": "INFRASTRUTTURA CSRM (PROD)_100080",
             "label": "Infrastructure Service"
         },
         {
-            "id_came": "702f807ab44c14822e7185f26b58cee0",
+            "id": "702f807ab44c14822e7185f26b58cee0",
+            "came": "123402",
             "type": "infrastructure_service",
             "name_card": "BASIC DISTRIBUTED SERVICES (PROD)_100236",
             "label": "Infrastructure Service"
         },
         {
-            "id_came": "a2df31253a0458ee4d27f6cdec80a819",
+            "id": "a2df31253a0458ee4d27f6cdec80a819",
+            "came": "123403",
             "type": "infrastructure_service",
             "name_card": "INFRASTRUTTURA MARS (PROD)_801012",
             "label": "Infrastructure Service"
         },
         {
-            "id_came": "002f807ab44c14822e7185f26b58cee0",
+            "id": "002f807ab44c14822e7185f26b58cee0",
+            "came": "123404",
             "type": "infrastructure_service",
             "name_card": "BASIC DISTRIBUTED SERVICES (PROD)_222236",
             "label": "Infrastructure Service"
         },
         {
-            "id_came": "ppp3e5c554e67f9041d7378b56e06021",
+            "id": "ppp3e5c554e67f9041d7378b56e06021",
+            "came": "123405",
             "type": "business_service",
             "name_card": "LEGAL STATION (PROD)_569",
             "label": "Business Service"
         },
         {
-            "id_came": "18c3e5c554e67f9041d7378b56e06021",
+            "id": "18c3e5c554e67f9041d7378b56e06021",
+            "came": "123406",
             "type": "business_service",
             "name_card": "LEGAL ARCHIVES (PROD)_569",
             "label": "Business Service"
         },
         {
-            "id_came": "2ac8ed6ea05ab585a4ec5f1ce5d867a6",
+            "id": "2ac8ed6ea05ab585a4ec5f1ce5d867a6",
+            "came": "123407",
             "type": "business_service",
             "name_card": "VCENTER ABU DHABI",
-            "label": "Business Application"
+            "label": "Business Service"
         },
         {
-            "id_came": "asdf31253a0458ee4d27f6cdec80a819",
+            "id": "asdf31253a0458ee4d27f6cdec80a819",
+            "came": "123408",
             "type": "infrastructure_service",
             "name_card": "INFRASTRUTTURA TWIX (PROD)_991012",
             "label": "Infrastructure Service"
         },
         {
-            "id_came": "zxcf807ab44c14822e7185f26b58cee0",
+            "id": "zxcf807ab44c14822e7185f26b58cee0",
+            "came": "123409",
             "type": "infrastructure_service",
             "name_card": "ADV DISTRIBUTED SERVICES (PROD)_989036",
             "label": "Infrastructure Service"
         },
         {
-            "id_came": "2568e5c554e67f9041d7378b56e06021",
+            "id": "2568e5c554e67f9041d7378b56e06021",
+            "came": "123410",
             "type": "business_service",
             "name_card": "PUBLIC STATION (PROD)_533",
             "label": "Business Service"
         },
         {
-            "id_came": "2323e5c554e67f9041d7378b56e06234",
+            "id": "2323e5c554e67f9041d7378b56e06234",
+            "came": "123411",
             "type": "business_service",
             "name_card": "LEGAL ARCHIVES (PROD)_777",
             "label": "Business Service"
         },
         {
-            "id_came": "2340ed6ea05ab585a4ec5f1ce5d86777",
+            "id": "2340ed6ea05ab585a4ec5f1ce5d86777",
+            "came": "123412",
             "type": "business_service",
             "name_card": "VCENTER LONDON",
-            "label": "Business Application"
+            "label": "Business Service"
         },
         {
-            "id_came": "78945612305ab585a4ec5f1ce5d86456",
+            "id": "78945612305ab585a4ec5f1ce5d86456",
+            "came": "123413",
             "type": "business_service",
             "name_card": "KCENTER BUDAPEST",
-            "label": "Business Application"
+            "label": "Business Service"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "id": "f2df31253a0458ee4d27f6cdec80a819",
     "name": "LEGAL ARCHIVES (PROD)_569",
-    "came": "123456",
-    "classe": "classef2d",
-    "stato": "statof2d",
-    "complianceClasse": "complianceClassef2d",
-    "referente": "referentef2d"
+    "came": "102030",
+    "classe": "f2dclasse",
+    "stato": "f2dstato",
+    "complianceClasse": "f2dcomplianceClasse",
+    "referente": "f2dreferente"
 }
